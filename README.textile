@@ -1,0 +1,1 @@
+This data is sourced from the New South Wales government. It contains the "raw data from hourly air quality measurements":http://www.environment.nsw.gov.au/AQMS/aqidaily.htm. The "units of each of the measurements":http://www.environment.nsw.gov.au/aqms/definitions.htm are also available.
